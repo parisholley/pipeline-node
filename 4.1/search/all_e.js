@@ -5,5 +5,6 @@ var searchData=
   ['shareusage',['shareUsage',['../classshare_usage.html',1,'']]],
   ['shareusageevidencekeyfilter',['shareUsageEvidenceKeyFilter',['../classshare_usage_evidence_key_filter.html',1,'']]],
   ['shareusagetracker',['shareUsageTracker',['../classshare_usage_tracker.html',1,'']]],
-  ['stop',['stop',['../classflow_data.html#ad446d6c64ea9db50749434ee29848c2f',1,'flowData']]]
+  ['stop',['stop',['../classstop.html',1,'stop'],['../classflow_data.html#ad446d6c64ea9db50749434ee29848c2f',1,'flowData::stop()']]],
+  ['sync',['sync',['../classsync.html',1,'']]]
 ];
