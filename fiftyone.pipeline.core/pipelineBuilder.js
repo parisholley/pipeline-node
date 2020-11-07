@@ -48,7 +48,7 @@ class PipelineBuilder {
   constructor (settings = {}) {
     this.flowElements = [];
 
-    if (settings.addJavaScriptBuilder) {
+    if (settings.addJavaScriptBuilder !== undefined) {
       this.addJavaScriptBuilder = settings.addJavascriptBuilder;
     } else {
       this.addJavaScriptBuilder = true;
